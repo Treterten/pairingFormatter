@@ -18,7 +18,9 @@
   "homepage": "https://github.com/Treterten/pairingFormatter#readme",
   "dependencies": {
     "chai": "^4.3.4",
+    "eslint": "^7.22.0",
     "express": "^4.17.1",
-    "mocha": "^8.3.2"
+    "mocha": "^8.3.2",
+    "nodemon": "^2.0.7"
   }
 }
